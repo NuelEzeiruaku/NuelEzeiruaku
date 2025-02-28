@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **new, interesting projects**
 
-- 🌱 I’m currently learning: **AI/ML as well as more frameworks to boost my current/upcoming projects**
+- 🌱 I’m currently learning: **AI/ML, becoming Full-stack, as well as more frameworks to boost my current/upcoming projects**
 
 - 📫 How to reach me: **kamsonuel@yahoo.com**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nuelezeiruaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nuel-ezeiruaku-bb3226250/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nuelezeiruaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuelezeiruaku" height="30" width="40" /></a>
 <a href="https://instagram.com/nuelezeiruaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuelezeiruaku" height="30" width="40" /></a>
 </p>
 
