@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **new, interesting projects**
 
-- 🌱 I’m currently learning: **AI/ML, becoming Full-stack, as well as more frameworks to boost my current/upcoming projects**
+- 🌱 I’m currently learning: **AI/ML, becoming a Full-Stack Engineer as well as more frameworks to boost my current/upcoming projects**
 
 - 📫 How to reach me: **kamsonuel@yahoo.com**
 
