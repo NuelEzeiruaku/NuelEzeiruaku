@@ -1,9 +1,11 @@
 <h1 align="center">Hey there, I'm Nuel Ezeiruaku</h1>
-<h3 align="center">A very passionate, Nigerian-American frontend developer from New Jersey</h3>
+<h3 align="center">A very passionate, Nigerian-American software developer from New Jersey</h3>
 
 - 🔭 I’m currently working on **new, interesting projects**
 
 - 🌱 I’m currently learning: **AI/ML, Backend, Mobile Development**
+
+- 🏫 I currently attend **Pennsylvania State University**
 
 - 📫 How to reach me: **kamsonuel@yahoo.com**
 
