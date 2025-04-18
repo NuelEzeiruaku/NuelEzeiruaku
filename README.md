@@ -11,8 +11,6 @@
 
 - 📫 How to reach me: **kamsonuel@yahoo.com**
 
-- 📄 Know about my experiences [: updating resume :)](: updating resume :))
-
 - ⚡ Fun fact: **I met Anthony Davis in a bathroom at California**
 
 <h3 align="left">Connect with me:</h3>
