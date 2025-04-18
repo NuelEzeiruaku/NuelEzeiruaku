@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **kamsonuel@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O7yKg3xf1MVNl-RSEF5PUyaIv-3Y99sl/view?usp=sharing](https://drive.google.com/file/d/1O7yKg3xf1MVNl-RSEF5PUyaIv-3Y99sl/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1O7yKg3xf1MVNl-RSEF5PUyaIv-3Y99sl/view?usp=sharing)
 
 - ⚡ Fun fact: **I met Anthony Davis in a bathroom at California**
 
