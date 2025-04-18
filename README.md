@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Nuel Ezeiruaku</h1>
-<h3 align="center">A very passionate, Nigerian-American software developer from New Jersey</h3>
+<h1 align="center">Hello! I'm Nuel Ezeiruaku</h1>
+<h3 align="center">A passionate, Nigerian-American software developer from South Jersey</h3>
 
 - 🔭 I’m currently working on **a Java Project**
 
